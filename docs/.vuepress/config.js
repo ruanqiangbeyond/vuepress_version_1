@@ -1,6 +1,7 @@
 module.exports = {
     title: 'Hello VuePress',
     description: 'Just playing around',
+    base: './',
     themeConfig: {
         // 禁用导航
         // navbar: false,
